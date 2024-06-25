@@ -181,26 +181,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- RESOURCES USED -->
 
-## 💻 Technology Utilized
-
-[![Adobe Photoshop][adobe_photoshop-shield]][adobe_photoshop-url]
-[![Canva][canva-shield]][canva-url]
-[![ChatGPT][chatgpt-shield]][chatgpt-url]
-[![Git][git-shield]][git-url]
-[![Github][github-shield]][github-url]
-[![Google Chrome][google_chrome-shield]][google_chrome-url]
-[![iOS][ios-shield]][ios-url]
-[![MacOS][macos-shield]][macos-url]
-[![Node.JS][nodejs-shield]][nodejs-url]
-[![NPM][npm-shield]][npm-url]
-[![React][react-shield]][react-url]
-[![Stack Overflow][stack_overflow-shield]][stack_overflow-url]
-[![TailwindCSS][tailwindcss-shield]][tailwindcss-url]
-[![Visual Studio Code][visual_studio_code-shield]][visual_studio_code-url]
-[![Windows][windows-shield]][windows-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- DEFAULT CREATE REACT APP GUIDE -->
 <details>
 <summary>
